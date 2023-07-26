@@ -15,12 +15,12 @@
           <Linear>
 			<Icons>
 				<Icon>
-					<StaticResource creativeType="image/png"><![CDATA[ https://example.org/images/ad_icon_img.png ]]></StaticResource>
+					<StaticResource creativeType="image/png"><![CDATA[ https://cdn.iconscout.com/icon/free/png-256/free-industry-1430036-1207834.png ]]></StaticResource>
 					<IconClicks>
 						<IconClickFallbackImages>
 							<IconClickFallbackImage>
 							<AltText>The live click interaction</AltText>
-							<StaticResource ><![CDATA[ https://example.org/images/ad_icon_clicked.png ]]></StaticResource>
+							<StaticResource ><![CDATA[ https://cdn.iconscout.com/icon/free/png-256/free-industries-1543395-1305887.png ]]></StaticResource>
 							</IconClickFallbackImage>
 						</IconClickFallbackImages>
 					</IconClicks>
